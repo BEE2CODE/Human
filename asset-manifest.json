@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//BEE2CODE.github.io/Human/static/css/main.aaa47ec1.css",
+    "main.js": "/http//BEE2CODE.github.io/Human/static/js/main.6f8b500e.js",
+    "static/js/787.f235ce22.chunk.js": "/http//BEE2CODE.github.io/Human/static/js/787.f235ce22.chunk.js",
+    "index.html": "/http//BEE2CODE.github.io/Human/index.html",
+    "main.aaa47ec1.css.map": "/http//BEE2CODE.github.io/Human/static/css/main.aaa47ec1.css.map",
+    "main.6f8b500e.js.map": "/http//BEE2CODE.github.io/Human/static/js/main.6f8b500e.js.map",
+    "787.f235ce22.chunk.js.map": "/http//BEE2CODE.github.io/Human/static/js/787.f235ce22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa47ec1.css",
+    "static/js/main.6f8b500e.js"
+  ]
+}
